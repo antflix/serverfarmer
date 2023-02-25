@@ -6,7 +6,7 @@
 # pulled by dhclient from DHCP options, then provides the hardcoded default
 # (from below line).
 
-internal_domain="internal"
+internal_domain="lan"
 
 
 # Avoid changing the below code, unless you really need to implement
